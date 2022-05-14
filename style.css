@@ -1,0 +1,23 @@
+.list-group .btn-pri{
+background: green;
+color: #fff;
+}
+.list-group .btn-dar {
+	background: #cf9b88;
+	color: #fff;
+}
+
+.list-group .btn-lig{
+	background: rgb(248, 149, 149);
+	color: #fff;
+}
+
+#next:hover {
+	background: coral;
+	transition: 0.3s ease-out ;
+}
+
+.image:hover {
+	transform: scale(1.2);
+	transition: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+}
